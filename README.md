@@ -35,7 +35,7 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/himanshuraghorte)
+- [LinkedIn:Himanshu Raghorte](https://www.linkedin.com/in/himanshuraghorte)
 - 📧 Email: [Himanshuraghorteatwork@gmail.com](mailto:Himanshuraghorteatwork@gmail.com)
 
 ---
