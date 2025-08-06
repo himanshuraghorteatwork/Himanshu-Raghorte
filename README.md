@@ -41,15 +41,16 @@
 
 ## 📈 GitHub Stats
 
-![Himanshu Raghorte GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajrockstar&show_icons=true&theme=radical)
+![Himanshu Raghorte GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshuraghorteatwork&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajrockstar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuraghorteatwork&layout=compact&theme=radical)
+
 
 ---
 
 ## 📫 Connect With Me
 
-- [LinkedIn:Himanshu Raghorte](https://www.linkedin.com/in/himanshuraghorte)
+- 🌐 LinkedIn:[Himanshu Raghorte](https://www.linkedin.com/in/himanshuraghorte)
 - 📧 Email: [Himanshuraghorteatwork@gmail.com](mailto:Himanshuraghorteatwork@gmail.com)
 
 ---
